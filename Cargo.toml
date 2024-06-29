@@ -1,0 +1,7 @@
+[package]
+name = "Tools-decompression"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+zip = "2.1.3"
